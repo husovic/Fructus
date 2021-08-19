@@ -278,12 +278,12 @@ TextMesh:
   m_GameObject: {fileID: 172698666}
   m_Text: "\u25CB"
   m_OffsetZ: 0
-  m_CharacterSize: 0.08
+  m_CharacterSize: 0.03
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 100
+  m_FontSize: 500
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
@@ -2981,8 +2981,8 @@ CapsuleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.025020616, y: 0.012917167}
-  m_Size: {x: 5.3633175, y: 5.180127}
+  m_Offset: {x: 0.03, y: -0.123}
+  m_Size: {x: 10.46, y: 9.78}
   m_Direction: 0
 --- !u!1 &1980246182
 GameObject:
@@ -3347,7 +3347,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 11.072823, y: -0.5178137}
+  m_Offset: {x: 10.1, y: -0.5178137}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -3358,7 +3358,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.3172617, y: 11.201014}
+  m_Size: {x: 1.3, y: 11.201014}
   m_EdgeRadius: 0
 --- !u!61 &2087591149
 BoxCollider2D:
@@ -3373,7 +3373,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -11.034109, y: -0.4805317}
+  m_Offset: {x: -9.65, y: -0.4805317}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -3384,7 +3384,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.37327576, y: 11.171837}
+  m_Size: {x: 0.61, y: 11.171837}
   m_EdgeRadius: 0
 --- !u!4 &2087591150
 Transform:

@@ -33,7 +33,7 @@ public class KnifeScript : MonoBehaviour
 
 
 
-        if (Input.GetMouseButton(0) && Time.time - lastClick > .7f)
+        if (Input.GetMouseButton(0) && Time.time - lastClick > .75f)
             SetEnabled(false);
     }
 
