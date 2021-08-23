@@ -14,7 +14,7 @@ public class FruitScript : MonoBehaviour
     void Start()
     {
         invokeStarted = false;
-        transform.position = new Vector3(Random.value * 17f - 8.5f, Random.value * 2 + 4f, transform.position.z);
+        transform.position = new Vector3(Random.value * 17f - 8.5f, Random.value + 5.5f, transform.position.z);
         float r = Random.value * 2 * Mathf.PI;
         int multiplier = 700;
 
